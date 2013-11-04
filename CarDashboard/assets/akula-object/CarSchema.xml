@@ -1,0 +1,9 @@
+<AKSchema>
+    <fields>
+        <AKField id="id" type="STRING" isKey="TRUE" isNullable="TRUE"/>
+        <AKField id="year" type="STRING" isKey="FALSE" isNullable="TRUE"/>
+        <AKField id="make" type="STRING" isKey="FALSE" isNullable="TRUE"/>
+        <AKField id="model" type="STRING" isKey="FALSE" isNullable="TRUE"/>
+        <AKField id="IsPrimary" type="STRING" isKey="FALSE" isNullable="TRUE"/>
+    </fields>
+</AKSchema>

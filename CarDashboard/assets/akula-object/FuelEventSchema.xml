@@ -1,0 +1,10 @@
+<AKSchema>
+    <fields>
+        <AKField id="id" type="STRING" isKey="TRUE" isNullable="TRUE"/>
+        <AKField id="carid" type="STRING" isKey="FALSE" isNullable="TRUE"/>
+        <AKField id="date" type="DATE" isKey="FALSE" isNullable="TRUE"/>
+        <AKField id="gasprice" type="REAL" isKey="FALSE" isNullable="TRUE"/>
+        <AKField id="gasamount" type="REAL" isKey="FALSE" isNullable="TRUE"/>
+        <AKField id="odometer" type="INTEGER" isKey="FALSE" isNullable="TRUE"/>
+    </fields>
+</AKSchema>
